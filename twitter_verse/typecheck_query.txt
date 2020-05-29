@@ -1,0 +1,12 @@
+SEARCH
+tomCruise
+following
+followers
+FILTER
+following katieH
+follower tomfan
+name-includes tom
+location-includes CA 
+PRESENT
+sort-by username
+format long
