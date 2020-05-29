@@ -1,1 +1,1 @@
-# RestaurantServingSimulation
+# Small Projects
